@@ -1,0 +1,4 @@
+- oioii eu sou a Gabriela
+- meu contato de email é @gabizitamartinssilva@gmail.com
+- eu estou interessada em aprender a programar novas linguagens
+- eu estou aprendendo a programar recentemente a linguagens do Javascript e Scratch.
